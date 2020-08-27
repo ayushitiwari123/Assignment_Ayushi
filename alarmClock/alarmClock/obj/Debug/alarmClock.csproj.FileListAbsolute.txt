@@ -1,0 +1,9 @@
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\bin\Debug\alarmClock.exe.config
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\bin\Debug\alarmClock.exe
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\bin\Debug\alarmClock.pdb
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.csprojResolveAssemblyReference.cache
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.Properties.Resources.resources
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.csproj.GenerateResource.Cache
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.exe
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.pdb
+C:\Users\2956.NUCSOFT\Desktop\Ayushi_Tiwari\alarmClock\alarmClock\obj\Debug\alarmClock.Alarm_clock.resources
